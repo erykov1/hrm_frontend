@@ -1,0 +1,3 @@
+<a href="https://www.flaticon.com/free-icons/home" title="home icons">Home icons created by Dave Gandy - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/login" title="login icons">Login icons created by mavadee - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/register" title="register icons">Register icons created by Radhe Icon - Flaticon</a>

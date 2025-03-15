@@ -1,0 +1,22 @@
+.navbar {
+  position: fixed;
+  top: 15px;
+  justify-self: center;
+  min-height: 30px;
+  background-color: #dddddd;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.navbar a {
+  color: black;
+  text-decoration: none;
+}
+
+.navbar-container {
+  background-color: #dddddd;
+}
+
+.btn-container {
+  margin: 5px;
+}
