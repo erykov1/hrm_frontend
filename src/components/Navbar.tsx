@@ -29,7 +29,9 @@ const Navbar = () => {
             <BottomNavigationAction
               label="Log in"
               value={"/login"}
-              icon={<img src={LoginIcon} alt="Login" width={24} height={24} />}
+              icon={
+                <img src={LoginIcon} alt="Sign in" width={24} height={24} />
+              }
             />
             <BottomNavigationAction
               label="Register"
